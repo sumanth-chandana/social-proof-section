@@ -18,8 +18,8 @@ Users should be able to:
 | ![](./images/desktop-design.jpg) | ![](./images/mobile-design.jpg) |
 ### Links
 
-- Solution URL: [click here](https://your-solution-url.com)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Solution URL: [click here](https://github.com/sumanth-chandana/social-proof-section.git)
+- Live Site URL: [click here](https://social-proof-section-fm-challenge.netlify.app/)
 
 ## My process
 
